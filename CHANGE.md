@@ -5,3 +5,7 @@
 #### v0.1.0
 
 Achieve basic functions.
+
+#### v0.1.1
+
+fix bugs.
