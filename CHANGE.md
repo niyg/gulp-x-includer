@@ -8,4 +8,8 @@ Achieve basic functions.
 
 #### v0.1.1
 
-fix bugs.
+Fix bugs.
+
+#### v0.1.2
+
+Update `README.md`

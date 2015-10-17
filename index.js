@@ -1,7 +1,7 @@
 /**
  * Gulp plugin for include js/css/html... any file.
  * 
- * @version   v0.1.1
+ * @version   v0.1.2
  * @author    Pandao <pandao@vip.qq.com>
  * @homePage  https://github.com/pandao/gulp-x-includer
  * @license   MIT license (MIT)

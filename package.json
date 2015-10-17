@@ -1,6 +1,6 @@
 {
   "name": "gulp-x-includer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Gulp plugin for include js/css/html... any file.",
   "main": "index.js",
   "scripts": {

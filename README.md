@@ -13,7 +13,7 @@ $ npm install gulp-x-includer --save-dev
 Default supported 4 comment syntax.
 
 ```
-'' ro ""
+'' or ""
 <!-- include "path/to/xxx.html" -->
 // include "path/to/xxx.js"
 /* include "path/to/xxx.css" */
